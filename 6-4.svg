@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="73px" height="75px" viewBox="0 0 73 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-wifi</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Marketing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="/home" sketch:type="MSArtboardGroup" transform="translate(-360.000000, -2684.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(0.000000, 2099.000000)">
+                <g id="icon-wifi" transform="translate(361.000000, 586.000000)" sketch:type="MSShapeGroup">
+                    <path d="M70.5179409,16.0814177 C61.7378565,6.37711392 49.2608945,0.277265823 35.4900253,0.277265823 C21.7191561,0.277265823 9.24219409,6.37711392 0.369687764,16.0814177" id="Shape" stroke="#00B9E4" stroke-width="2"/>
+                    <path d="M60.7212152,27.8190042 C54.4365232,20.7025148 45.2867511,16.1738397 35.0279156,16.1738397 C24.8615021,16.1738397 15.71173,20.6100928 9.42703797,27.7265823" id="Shape" stroke="#00B9E4" stroke-width="2"/>
+                    <path d="M48.6139409,38.5399494 C45.2867511,34.5658059 40.3883882,31.9779916 34.8430717,31.9779916 C29.1129114,31.9779916 24.0297046,34.7506498 20.7025148,39.0020591" id="Shape" stroke="#00B9E4" stroke-width="2"/>
+                    <ellipse id="Oval" fill="#00B9E4" cx="34.1961181" cy="52.7729283" rx="6.46953586" ry="6.46953586"/>
+                    <path d="M34.1961181,52.6805063 L34.1961181,73.0133333" id="Shape" stroke="#00B9E4" stroke-width="2"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
